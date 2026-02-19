@@ -73,7 +73,7 @@ networkx==3.4.2
 numba==0.63.1
 numpy==1.26.4
 omegaconf==2.3.0
-packaging @ file:///C:/miniconda3/conda-bld/packaging_1761049101700/work
+packaging==26.0
 pandas==2.3.3
 pillow==12.1.0
 platformdirs==4.5.1
